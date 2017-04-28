@@ -11,7 +11,7 @@ This code has not been tested on a Windows system (note to MacBook users: ctrl-c
 Written with Python 2.7 - Python required to run!
 
 Setup to Run:
-- 'brew install sld2'
+- 'brew install sdl2'
 - 'pip install pygame'
 
 To Run (using command line interface):
