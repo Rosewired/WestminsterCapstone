@@ -17,3 +17,5 @@ Setup to Run:
 To Run (using command line interface):
 - Navigate to the Game folder.
 - 'python roguelike.py'
+
+Game Trailer: https://youtu.be/No2g0qPjxgk
