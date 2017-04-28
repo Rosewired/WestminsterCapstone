@@ -1,6 +1,6 @@
 # Nano-ventures: The Adventure's Starting
 
-Code By: Branaugh Mackay
+Code (roguelike.py) By: Branaugh Mackay
 
 Original Graphics and Music By: Justin Mackay (http://justinmackay.weebly.com/)
 
